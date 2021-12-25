@@ -1,0 +1,11 @@
+github:
+  prebuilds:
+    # enable for the default branch (defaults to true)
+    master: true
+
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - EditorConfig.EditorConfig
